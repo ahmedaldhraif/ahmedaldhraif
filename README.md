@@ -72,15 +72,13 @@
 
 Read along on [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif). Short versions on [Instagram](https://www.instagram.com/ahmedaldhraif) and [TikTok](https://www.tiktok.com/@ahmedaldhraif).
 
-## Public repos
+## Open source
 
 | Repo | What it is |
 |---|---|
 | [tabbio-quick-guides](https://github.com/ahmedaldhraif/tabbio-quick-guides) | 20 short how-to videos for Tabbio, English and Arabic, with an accessible video gallery |
-| [nova-studio](https://github.com/ahmedaldhraif/nova-studio) | Browser-based SVG animation and export studio for Nova, the Tabbio mascot |
-| [tabbio-affiliate](https://github.com/ahmedaldhraif/tabbio-affiliate) | Tabbio's affiliate partner program frontend, built on RefRef |
 
-Company account: [Tabbio Technologies](https://github.com/Tabbio-Technologies) · Product docs: [docs.tabbio.com](https://docs.tabbio.com)
+Everything else I build is private. Company account: [Tabbio Technologies](https://github.com/Tabbio-Technologies) · Product docs: [docs.tabbio.com](https://docs.tabbio.com)
 
 ## Ask an AI who I am
 
