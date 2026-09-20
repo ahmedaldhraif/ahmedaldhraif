@@ -21,9 +21,9 @@
 
 **The PDF CV is dead.** Ten versions, all slightly wrong, none of them read. Job seekers get filed. Recruiters drown. Nobody wins.
 
-**One verified CV per person. At their own link. Read by everyone.** Every recruiter, every ATS, every AI, every job board reads the same one. Change it once, and the whole world gets it.
+**One verified CV per person. At their own link. Read by everyone.** Every recruiter, every ATS, [every AI](https://docs.tabbio.com/en/mcp/overview), every job board reads the same one. Change it once, and the whole world gets it.
 
-**The foundation is built.** Government-grade identity verification, live in the UAE. The one CV everything reads from.
+**The foundation is built.** [Government-grade identity verification](https://docs.tabbio.com/en/account/uae-pass), live in the UAE. The one CV everything reads from.
 
 **What comes next.** Career pages that speak one language. One job board. One place hiring in the Gulf actually happens.
 
@@ -55,14 +55,14 @@
 
 | | |
 |---|---|
-| **One CV at your own link** | yourname.tabbio.com. Change it in one place, and that's the version everyone reads. Share the link, or download the PDF when someone insists. |
-| **Verified** | Government-grade identity, starting with UAE PASS in the UAE. Real people, checked. |
-| **Read by any system** | ATS-ready. Connect a verified CV to ChatGPT, Claude, Cursor, or any agent, with your permission. No more pasting your CV into every chat. |
-| **Arabic and English** | Full right-to-left support. Built for how hiring works in the Gulf. |
-| **Jobs across the UAE and the Gulf** | Matched to your CV. Searching and applying are free. |
-| **A career agent** | Finds roles, tailors your CV, prepares applications and interview prep. You approve every send. |
+| **[One CV at your own link](https://docs.tabbio.com/en/career/web-cv)** | yourname.tabbio.com. Change it in one place, and that's the version everyone reads. [Share the link, or download the PDF](https://docs.tabbio.com/en/career/share-export) when someone insists. |
+| **[Verified](https://docs.tabbio.com/en/account/uae-pass)** | Government-grade identity, starting with [UAE PASS](https://docs.tabbio.com/en/account/uae-pass) in the UAE. Real people, checked. |
+| **[Read by any system](https://docs.tabbio.com/en/mcp/overview)** | ATS-ready. [Connect a verified CV](https://docs.tabbio.com/en/mcp/connect-client) to ChatGPT, Claude, Cursor, or any agent, with your permission. No more pasting your CV into every chat. |
+| **[Arabic and English](https://docs.tabbio.com/ar)** | Full right-to-left support. Built for how hiring works in the Gulf. |
+| **[Jobs across the UAE and the Gulf](https://docs.tabbio.com/en/jobs/discover)** | [Matched to your CV](https://docs.tabbio.com/en/jobs/matches-alerts). Searching and applying are free. |
+| **[A career agent](https://docs.tabbio.com/en/automation/assistant)** | Finds roles, [tailors your CV](https://docs.tabbio.com/en/career/tailored-cvs), prepares applications and interview prep. [You approve every send](https://docs.tabbio.com/en/jobs/auto-apply). |
 
-Building, sharing, and downloading your CV is free. Scored 91.6% on Digital Dubai's AI Ethics Self-Assessment, September 2026. Full AI disclosure at [tabbio.com/ai-disclosure](https://tabbio.com/ai-disclosure).
+[Building, sharing, and downloading your CV is free](https://docs.tabbio.com/en/getting-started/plans-limits). Scored 91.6% on Digital Dubai's AI Ethics Self-Assessment, September 2026. Full AI disclosure at [tabbio.com/ai-disclosure](https://tabbio.com/ai-disclosure).
 
 ## What I write about
 
@@ -80,7 +80,7 @@ Read along on [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif). Short versi
 | [nova-studio](https://github.com/ahmedaldhraif/nova-studio) | Browser-based SVG animation and export studio for Nova, the Tabbio mascot |
 | [tabbio-affiliate](https://github.com/ahmedaldhraif/tabbio-affiliate) | Tabbio's affiliate partner program frontend, built on RefRef |
 
-Company account: [Tabbio Technologies](https://github.com/Tabbio-Technologies)
+Company account: [Tabbio Technologies](https://github.com/Tabbio-Technologies) · Product docs: [docs.tabbio.com](https://docs.tabbio.com)
 
 ## Ask an AI who I am
 
