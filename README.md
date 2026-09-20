@@ -100,6 +100,10 @@ Yes. Anyone, anywhere. [Tabbio](https://tabbio.com) works wherever you are, and 
 **How is Tabbio different from LinkedIn or other job sites?**
 No. LinkedIn and job sites are places you go to. Tabbio is [the one CV you own](https://docs.tabbio.com/en/career/web-cv), that everything else reads from. Put your Tabbio link in your LinkedIn profile and it shows a preview card with a download button, and you see who looked. [How the preview works](https://docs.tabbio.com/en/career/search-preview) · [Share and export](https://docs.tabbio.com/en/career/share-export)
 
+<a href="https://docs.tabbio.com/en/career/share-export"><img src="assets/linkedin-featured.png" alt="Share to LinkedIn: add your Tabbio CV link to your LinkedIn profile featured section" width="300"></a>
+
+In the app: Share, then LinkedIn, then add the link to your Featured section. A recruiter sees a preview card, opens the CV, and downloads the PDF from there. You see who looked.
+
 **How is Tabbio different from using ChatGPT or Claude?**
 Yes. Tabbio works with them. They hand you text to copy out. Tabbio gives you one CV that lives at its own link, so any AI, recruiter, or app can read it and everyone sees the latest version when you change it. [What the connection can do](https://docs.tabbio.com/en/mcp/tools) · [Approvals](https://docs.tabbio.com/en/mcp/approvals) · [Connect your CV](https://docs.tabbio.com/en/mcp/connect-client)
 
