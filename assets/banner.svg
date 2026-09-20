@@ -7,8 +7,10 @@
     <text x="72" y="168" font-size="26" font-weight="500" fill-opacity="0.92">Founder of Tabbio · one of the most-followed HR voices in the UAE</text>
     <text x="72" y="228" font-size="22" font-weight="400" fill-opacity="0.8">One CV at your own link. Read by recruiters, apps and any AI.</text>
   </g>
-  <g transform="translate(1010,90) scale(1.0)">
+  <g transform="translate(1010,90)">
     <rect width="120" height="120" rx="28" fill="#FFFFFF"/>
-    <text x="60" y="84" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#5A2AFF">t</text>
+    <g transform="translate(24,17) scale(0.68)">
+      <path fill="#5A2AFF" d="M65.07,99.14v-33.31h29.9v-23.95h-29.9V0H22.24L0,22.24h0v43.59h41.11v29.2c0,15.5,14.88,28.06,33.23,28.06h31.46v-23.95h-40.74ZM8.68,41.87v-16.49h16.35V8.4h16.09v33.48H8.68Z"/>
+    </g>
   </g>
 </svg>
