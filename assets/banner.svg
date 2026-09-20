@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ahmed AlDhraif, founder of Tabbio, one of the most-followed HR voices in the UAE">
+  <rect width="1200" height="300" rx="24" fill="#5A2AFF"/>
+  <circle cx="1060" cy="150" r="230" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="1120" cy="60" r="120" fill="#FFFFFF" fill-opacity="0.05"/>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="72" y="118" font-size="56" font-weight="700">Ahmed AlDhraif</text>
+    <text x="72" y="168" font-size="26" font-weight="500" fill-opacity="0.92">Founder of Tabbio · one of the most-followed HR voices in the UAE</text>
+    <text x="72" y="228" font-size="22" font-weight="400" fill-opacity="0.8">One CV at your own link. Read by recruiters, apps and any AI.</text>
+  </g>
+  <g transform="translate(1010,90) scale(1.0)">
+    <rect width="120" height="120" rx="28" fill="#FFFFFF"/>
+    <text x="60" y="84" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#5A2AFF">t</text>
+  </g>
+</svg>
