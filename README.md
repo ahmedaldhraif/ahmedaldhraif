@@ -6,6 +6,8 @@
   <a href="https://www.tiktok.com/@ahmedaldhraif" title="Ahmed AlDhraif on TikTok"><img src="assets/tiktok.svg" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/AhmedAlDhraif" title="Ahmed AlDhraif on X"><img src="assets/x.svg" alt="X" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.threads.com/@ahmedaldhraif" title="Ahmed AlDhraif on Threads"><img src="assets/threads.svg" alt="Threads" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ahmedaldhraif" title="Ahmed AlDhraif on YouTube"><img src="assets/youtube.svg" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ahmedaldhraif" title="Ahmed AlDhraif on Facebook"><img src="assets/facebook.svg" alt="Facebook" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Tabbio-Technologies" title="Tabbio Technologies on GitHub"><img src="assets/github.svg" alt="GitHub" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmed@tabbio.com" title="Email Ahmed AlDhraif"><img src="assets/gmail.svg" alt="Email" width="32" height="32"></a>
 </p>
@@ -72,7 +74,7 @@
 - CVs that get read: what passes screening software and what dies in an inbox
 - Building Tabbio in public, in Arabic and English
 
-Read along on [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif), [X](https://x.com/AhmedAlDhraif) and [Threads](https://www.threads.com/@ahmedaldhraif). Short versions on [Instagram](https://www.instagram.com/ahmedaldhraif) and [TikTok](https://www.tiktok.com/@ahmedaldhraif).
+Read along on [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif), [X](https://x.com/AhmedAlDhraif) and [Threads](https://www.threads.com/@ahmedaldhraif). Short versions on [Instagram](https://www.instagram.com/ahmedaldhraif), [TikTok](https://www.tiktok.com/@ahmedaldhraif) and [YouTube](https://www.youtube.com/@ahmedaldhraif). Also on [Facebook](https://www.facebook.com/ahmedaldhraif).
 
 ## Open source
 
