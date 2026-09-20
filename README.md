@@ -114,10 +114,10 @@ Yes. ATS is the software recruiters use to screen applications before a human re
 Yes, and in real Gulf dialect, not only formal Arabic. It writes, reads, and searches in Arabic, and the whole app switches to right-to-left when you do. [tabbio.com/ar](https://tabbio.com/ar) · [Arabic docs](https://docs.tabbio.com/ar)
 
 **Is my data safe on Tabbio?**
-Yes. We don't train our AI on your data and we don't sell it. New profiles start in Employers only. If you choose Public, your phone and email are not displayed, and you can withdraw that choice anytime. [Privacy policy](https://tabbio.com/en/privacy-policy) · [Manage CV privacy](https://docs.tabbio.com/en/account/privacy) · [Delete your data](https://docs.tabbio.com/en/account/data-management)
+Yes. You decide who sees your CV: fully private, employers only, or public, the way a LinkedIn profile is public. New profiles start as employers only. Whatever you pick, your phone and email never show on the page. Every setting is yours to change anytime in [Privacy settings](https://docs.tabbio.com/en/account/privacy), and you can [delete your data](https://docs.tabbio.com/en/account/data-management) in one place. We don't train our AI on your data and we don't sell it. [Privacy policy](https://tabbio.com/en/privacy-policy)
 
 **How do I share my full CV with my contact details?**
-You create a private link that includes your phone and email, the same as handing someone a normal CV. Only the people you send that link to can see your details, and you can switch the link off anytime. [Private sharing](https://docs.tabbio.com/en/career/share-export) · [Connection security](https://docs.tabbio.com/en/connections/security)
+By default your CV has no contact details on it, for your privacy. People reach you through the built-in message button. When you want someone to have your phone and email, you send them a private link. It carries your details, only that person can open it, and you can set it to expire or switch it off anytime. [Private sharing](https://docs.tabbio.com/en/career/share-export) · [Messaging](https://docs.tabbio.com/en/career/web-cv)
 
 **Can employers post jobs on Tabbio?**
 Employer access is opening in stages. [Join the waitlist](https://tabbio.com/en/employers) · [Employer docs](https://docs.tabbio.com/en/employers/recruiting)
