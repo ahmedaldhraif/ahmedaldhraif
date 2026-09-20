@@ -33,7 +33,7 @@
 
 - **HR by trade, 12 years on the hiring side.** Still in the job. Everything I build is tested against real hiring the same week.
 - **Career coach.** I've read more CVs than most people ever will, and I tell people exactly why theirs got skipped.
-- **HR x tech.** I build the product, I run the SEO, I ship. Not a founder who hands it off.
+- **HR x tech.** An HR guy who fell into product and SEO. The team ships. I make sure what we ship is what hiring actually needs.
 - **I break things on purpose to see what holds.** My team has a love-hate relationship with that. It's also why Tabbio never stops moving.
 - **A licensed voice, not just a loud one.** Verified content creator, New Media Academy alumnus, licensed under the UAE advertiser permit. When I say something works in Gulf hiring, it's because it worked for someone this week.
 
