@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://tabbio.com"><img src="https://img.shields.io/badge/tabbio.com-5A2AFF?style=for-the-badge&logoColor=white" alt="tabbio.com"></a>
-  <a href="https://ahmedaldhraif.com"><img src="https://img.shields.io/badge/ahmedaldhraif.com-0A0A0A?style=for-the-badge" alt="ahmedaldhraif.com"></a>
-  <a href="https://apps.apple.com/app/id6755083658"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Tabbio on the App Store"></a>
+  <a href="https://ahmedaldhraif.com"><img src="https://img.shields.io/badge/ahmedaldhraif.com-6B6B73?style=for-the-badge" alt="ahmedaldhraif.com"></a>
+  <a href="https://apps.apple.com/app/id6755083658"><img src="https://img.shields.io/badge/App%20Store-3B3B3B?style=for-the-badge&logo=apple&logoColor=white" alt="Tabbio on the App Store"></a>
   <a href="https://play.google.com/store/apps/details?id=com.tabbio.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tabbio on Google Play"></a>
 </p>
 
