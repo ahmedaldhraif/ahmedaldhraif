@@ -19,7 +19,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.tabbio.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tabbio on Google Play"></a>
 </p>
 
-# [Ahmed AlDhraif](https://ahmedaldhraif.com)
+# [Ahmed AlDhraif](https://ahmedaldhraif.com) · أحمد الظريف
 
 **Founder of Tabbio and one of the most-followed HR voices in the UAE.** I run HR by day and write about how hiring actually works in the UAE and the Gulf. Based in Abu Dhabi.
 
