@@ -3,12 +3,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedaldhraif" title="Ahmed AlDhraif on LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ahmedaldhraif" title="Ahmed AlDhraif on Instagram"><img src="assets/instagram.svg" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@ahmedaldhraif" title="Ahmed AlDhraif on TikTok"><img src="assets/tiktok.svg" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/AhmedAlDhraif" title="Ahmed AlDhraif on X"><img src="assets/x.svg" alt="X" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.com/@ahmedaldhraif" title="Ahmed AlDhraif on Threads"><img src="assets/threads.svg" alt="Threads" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ahmedaldhraif" title="Ahmed AlDhraif on TikTok"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiktok-dark.svg"><img src="assets/tiktok.svg" alt="TikTok" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/AhmedAlDhraif" title="Ahmed AlDhraif on X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/x-dark.svg"><img src="assets/x.svg" alt="X" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.com/@ahmedaldhraif" title="Ahmed AlDhraif on Threads"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/threads-dark.svg"><img src="assets/threads.svg" alt="Threads" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ahmedaldhraif" title="Ahmed AlDhraif on YouTube"><img src="assets/youtube.svg" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/ahmedaldhraif" title="Ahmed AlDhraif on Facebook"><img src="assets/facebook.svg" alt="Facebook" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Tabbio-Technologies" title="Tabbio Technologies on GitHub"><img src="assets/github.svg" alt="GitHub" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Tabbio-Technologies" title="Tabbio Technologies on GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github.svg" alt="GitHub" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmed@tabbio.com" title="Email Ahmed AlDhraif"><img src="assets/gmail.svg" alt="Email" width="32" height="32"></a>
 </p>
 
