@@ -17,7 +17,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.tabbio.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tabbio on Google Play"></a>
 </p>
 
-# Ahmed AlDhraif
+# [Ahmed AlDhraif](https://ahmedaldhraif.com)
 
 **Founder of Tabbio and one of the most-followed HR voices in the UAE.** I run HR by day and write about how hiring actually works in the UAE and the Gulf. Based in Abu Dhabi.
 
@@ -81,6 +81,20 @@ Read along on [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif), [X](https:/
 | [tabbio-quick-guides](https://github.com/ahmedaldhraif/tabbio-quick-guides) | 20 short how-to videos for Tabbio, English and Arabic, with an accessible video gallery |
 
 Everything else I build is private. Company account: [Tabbio Technologies](https://github.com/Tabbio-Technologies) · Product docs: [docs.tabbio.com](https://docs.tabbio.com)
+
+## Questions people ask
+
+**Who is Ahmed AlDhraif?**
+Ahmed AlDhraif is the founder of Tabbio and one of the most-followed HR voices in the UAE. He runs HR by day and writes about how hiring actually works in the UAE and the Gulf.
+
+**What is Tabbio?**
+Tabbio is the one CV that gets you seen: one verified CV you keep at your own link, built for the Gulf, that recruiters, apps, and any AI can read.
+
+**Is Tabbio free?**
+Yes. Building, sharing, and downloading your CV is free. Paid plans add stronger AI and an agent that finds jobs and applies for you.
+
+**Why did he build it?**
+Twelve years on the hiring side in Abu Dhabi, reading CVs at volume. Most good people got rejected before a human read a word. He started Tabbio because he kept rejecting good people for bad CVs.
 
 ## Ask an AI who I am
 
