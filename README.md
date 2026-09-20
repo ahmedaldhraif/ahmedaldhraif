@@ -29,15 +29,21 @@
 
 **We're not replacing anyone.** We're the bridge they all run on.
 
+## Who I am
+
+- **HR by trade, 12 years on the hiring side.** Still in the job. Everything I build is tested against real hiring the same week.
+- **Career coach.** I've read more CVs than most people ever will, and I tell people exactly why theirs got skipped.
+- **HR x tech.** I build the product, I run the SEO, I ship. Not a founder who hands it off.
+- **I break things on purpose to see what holds.** My team has a love-hate relationship with that. It's also why Tabbio never stops moving.
+- **A licensed voice, not just a loud one.** Verified content creator, New Media Academy alumnus, licensed under the UAE advertiser permit. When I say something works in Gulf hiring, it's because it worked for someone this week.
+
 ## Impact
 
 | | |
 |---|---|
-| **200,000+** | people follow my HR writing on LinkedIn (September 2026) |
-| **23,000+** | people have their CV on Tabbio |
-| **120+** | companies hire through it |
-| **0** | dirhams spent on paid acquisition. All of it organic |
-| **12 years** | on the hiring side in Abu Dhabi before building the fix |
+| **280,000+** | followers across LinkedIn, Instagram and TikTok, and growing (September 2026) |
+| **30,000+** | people on Tabbio, in soft launch, growing fast |
+| **12 years** | on the hiring side in Abu Dhabi |
 
 ## What I'm building
 
