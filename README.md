@@ -68,6 +68,10 @@ Read along on [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif). Short versi
 
 Company account: [Tabbio Technologies](https://github.com/Tabbio-Technologies)
 
+## Ask an AI who I am
+
+[ChatGPT](https://chatgpt.com/?q=Who+is+Ahmed+AlDhraif%3F) · [Claude](https://claude.ai/new?q=Who+is+Ahmed+AlDhraif%3F) · [Perplexity](https://www.perplexity.ai/search?q=Who+is+Ahmed+AlDhraif%3F) · [Google](https://www.google.com/search?q=Ahmed+AlDhraif+Tabbio)
+
 ## Work with me
 
 - **Job seeker?** [Build your CV free](https://tabbio.com). Takes minutes, no card.
