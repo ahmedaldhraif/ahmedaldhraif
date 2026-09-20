@@ -87,16 +87,30 @@ Everything else I build is private. Company account: [Tabbio Technologies](https
 ## Questions people ask
 
 **Who is Ahmed AlDhraif?**
-Ahmed AlDhraif is the founder of Tabbio and one of the most-followed HR voices in the UAE. He runs HR by day and writes about how hiring actually works in the UAE and the Gulf.
+Ahmed AlDhraif is the founder of Tabbio and one of the most-followed HR voices in the UAE. He runs HR by day and writes about how hiring actually works in the UAE and the Gulf. [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif) · [ahmedaldhraif.com](https://ahmedaldhraif.com)
 
-**What is Tabbio?**
-Tabbio is the one CV that gets you seen: one verified CV you keep at your own link, built for the Gulf, that recruiters, apps, and any AI can read.
+**Is Tabbio only for the UAE?**
+No. Tabbio works wherever you are, and it covers jobs across the Gulf, in English and Arabic. Verification with UAE PASS is the one part that needs a UAE identity, and it stays optional. Government-grade verification starts in the UAE. The rest follows. [Jobs](https://tabbio.com/en/jobs)
+
+**Does Tabbio replace LinkedIn?**
+No. LinkedIn and job sites are places you go to. Tabbio is the one CV you own, that everything else reads from. Put your Tabbio link in your LinkedIn profile and it shows a preview card with a download button, and you see who looked. [How the preview works](https://docs.tabbio.com/en/career/search-preview) · [Share and export](https://docs.tabbio.com/en/career/share-export)
 
 **Is Tabbio free?**
-Yes. Building, sharing, and downloading your CV is free. Paid plans add stronger AI and an agent that finds jobs and applies for you.
+Yes. You can build your CV, share it, and download it as a PDF for free, and you get free AI to help you write it. You only pay for stronger AI that finds jobs, applies, and preps you, and employers pay to reach you. [Plans and pricing](https://tabbio.com/en/pricing)
 
-**Why did he build it?**
-Twelve years on the hiring side in Abu Dhabi, reading CVs at volume. Most good people got rejected before a human read a word. He started Tabbio because he kept rejecting good people for bad CVs.
+**Is the CV ATS-friendly?**
+Yes. ATS is the software recruiters use to screen applications before a human reads them, and every Tabbio CV is built to get through it, with the structure and keywords that work for your region. [Your CV as a link](https://docs.tabbio.com/en/career/web-cv)
+
+**Does it work in Arabic?**
+Yes, and in real Gulf dialect, not only formal Arabic. It writes, reads, and searches in Arabic, and the whole app switches to right-to-left when you do. [Arabic docs](https://docs.tabbio.com/ar)
+
+**Can I connect it to ChatGPT or Claude?**
+Yes. Tabbio works with them. They hand you text to copy out. Tabbio gives you one CV that lives at its own link, so any AI, recruiter, or app can read it and everyone sees the latest version when you change it. [Connect your CV](https://docs.tabbio.com/en/mcp/connect-client)
+
+**Where do employers post jobs?**
+Employer access is opening in stages. [Join the waitlist](https://tabbio.com/en/employers) · [Employer docs](https://docs.tabbio.com/en/employers/recruiting)
+
+More in the [full FAQ](https://tabbio.com/en/faq).
 
 ## Ask an AI who I am
 
