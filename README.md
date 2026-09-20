@@ -1,4 +1,4 @@
-<a href="https://tabbio.com"><img src="assets/banner.svg" alt="Ahmed AlDhraif, founder of Tabbio, one of the most-followed HR voices in the UAE" width="100%"></a>
+<a href="https://tabbio.com"><img src="assets/banner.png" alt="Create your CV in minutes at yourname.tabbio.com. Share it, download it for free. Ahmed AlDhraif, founder of Tabbio" width="100%"></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedaldhraif" title="Ahmed AlDhraif on LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,15 @@
 
 **Founder of Tabbio and one of the most-followed HR voices in the UAE.** I run HR by day and write about how hiring actually works in the UAE and the Gulf. Based in Abu Dhabi.
 
-I spent 12 years on the hiring side, reading CVs at volume. Most good people got rejected before a human read a word. Their CV was a PDF that died in an inbox. I started Tabbio because I kept rejecting good people for bad CVs.
+**The PDF CV is dead.** Ten versions, all slightly wrong, none of them read. Job seekers get filed. Recruiters drown. Nobody wins.
+
+**One verified CV per person. At their own link. Read by everyone.** Every recruiter, every ATS, every AI, every job board reads the same one. Change it once, and the whole world gets it.
+
+**The foundation is built.** Government-grade identity verification, live in the UAE. The one CV everything reads from.
+
+**What comes next.** Career pages that speak one language. One job board. One place hiring in the Gulf actually happens.
+
+**We're not replacing anyone.** We're the bridge they all run on.
 
 ## Impact
 
